@@ -1,7 +1,7 @@
 # CS_Resources
 a curated list of links to CS resources. (feel free to contribute in anyway)
 
-## Computer Science roapmaps
+## Computer Science Roapmaps
 - https://github.com/ossu/computer-science
 - https://youtu.be/vxctuiRlmrs
 
