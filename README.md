@@ -27,8 +27,8 @@ a curated list of links to CS resources. (feel free to contribute in anyway)
 - https://gamedev.stackexchange.com/questions/12299/what-are-some-good-books-which-detail-the-fundamentals-of-graphics-processing
 
 ## Courses
-- https://www.coursera.org/learn/build-a-computer
-- https://www.coursera.org/learn/nand2tetris2
+- https://www.coursera.org/learn/build-a-computer (Computer Architecture)
+- https://www.coursera.org/learn/nand2tetris2 (Compiler Design to OS)
 
 ## misc.
 - https://www.firsttimersonly.com/
